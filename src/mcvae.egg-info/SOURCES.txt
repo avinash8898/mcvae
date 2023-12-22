@@ -2,6 +2,7 @@ LICENSE
 README.md
 setup.py
 src/__init__.py
+src/experiments/__init__.py
 src/mcvae/__init__.py
 src/mcvae.egg-info/PKG-INFO
 src/mcvae.egg-info/SOURCES.txt
